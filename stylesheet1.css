@@ -1,0 +1,38 @@
+body{
+    background-color: #134555;
+    font-family: Source Sans Pro, sans-serif;
+
+}
+
+#logoBigSize{
+    height: 8em;
+    float: left;
+
+}
+
+.headerOne{
+    padding-bottom: 3.5em;
+    padding-top: 1em;
+    padding-left: 1em;
+    background-color: #00242e;
+
+}
+
+.Begruessung{
+    color: white;
+    background-color: #00242e;
+    text-align: center;
+    font-family: "Consolas";
+    font-size: 2em;
+}
+
+.BegruessungKlein{
+    color: white;
+    background-color: #00242e;
+    text-align: center;
+    font-family: "Consolas";
+}
+
+
+
+
